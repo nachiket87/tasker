@@ -62,3 +62,6 @@ gem "faker", "~> 2.15"
 gem "redis", "~> 4.2"
 
 gem "bootstrap_form", "~> 4.5"
+
+gem "acts_as_list"
+gem "rubocop", "~> 1.6"
