@@ -1,5 +1,9 @@
 # README
 
+###Deployed version
+
+http://nmtasker.herokuapp.com
+
 This is a task management tool created with Stimulus Reflex to experiment with Web Sockets.
 
 Project details:
