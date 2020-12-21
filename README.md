@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a task management tool created with Stimulus Reflex to experiment with Web Sockets.
 
-Things you may want to cover:
+Project details:
 
-* Ruby version
+- Ruby version: 2.7.2
 
-* System dependencies
+- Rails version: 6.1
 
-* Configuration
+- Configuration: Requires redis-server
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Seed file uses Faker Gem
