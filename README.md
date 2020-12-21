@@ -1,12 +1,10 @@
 # README
 
-###Deployed version
+### Deployed version
 
-[Tasker](http://nmtasker.herokuapp.com)
+[Tasker](http://nmtasker.herokuapp.com) <em> deployed on heroku free plan so may take time to load. </em>
 
-- deployed on heroku free plan so may take time to load.
-
-This is a task management tool created with Stimulus Reflex to experiment with Web Sockets.
+## This is a task management tool created with Stimulus Reflex to experiment with Web Sockets.
 
 Project details:
 
